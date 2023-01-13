@@ -1,0 +1,1 @@
+# osTicket-email-config
